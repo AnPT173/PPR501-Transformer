@@ -1,4 +1,4 @@
-# transformer_vi_syllable_autocomplete.ipynb — Thành viên 1
+# transformer_vi_syllable_autocomplete.ipynb — huy26ms23411@fsb.edu.vn
 ## Phụ trách: Bài toán dịch, tokenization, vocabulary và kiến trúc tổng thể
 
 **Phạm vi:** Cell 0–9; Mục 1–4.
